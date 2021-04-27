@@ -1,8 +1,6 @@
 # Challenge: 
 ## 2021-04-27 
 
-This is a test subfolder to make sure the daily bash script is working properly
-
 # Brief 
 
 # Performance 
