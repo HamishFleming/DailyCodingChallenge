@@ -6,5 +6,5 @@
 
 
 # Googled 
-
+* Read user input to a list in python
 
