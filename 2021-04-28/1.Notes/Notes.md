@@ -4,6 +4,10 @@
 
 # Notes 
 
+loop through the array 
+for each value k-n=x
+    check if x exists in the array
+    
 
 # Googled 
 
