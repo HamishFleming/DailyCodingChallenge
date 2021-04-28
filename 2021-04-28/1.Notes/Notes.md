@@ -10,5 +10,6 @@ for each value k-n=x
     
 
 # Googled 
+"Python range of array"
 
 
